@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "yousef",
+      "age": 21,
+      "email": "yousef@gmail.com",
+      "password": "123456"
+    },
+    {
+      "name": "Mrs. Beverly Wyman",
+      "age": "248",
+      "email": "Jacques.Kuphal@yahoo.com",
+      "password": "123456",
+      "id": 2
+    },
+    {
+      "name": "Carrie Collins",
+      "age": "123",
+      "email": "Paige.Littel31@hotmail.com",
+      "password": "123456",
+      "id": 4
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "price": 25000
+    },
+    {
+      "name": "Incredible Plastic Table",
+      "price": "65",
+      "id": 2
+    },
+    {
+      "name": "Handmade Granite Computer",
+      "price": "905",
+      "id": 3
+    },
+    {
+      "name": "test",
+      "price": "123456",
+      "id": 4
+    },
+    {
+      "name": "Practical Wooden Car",
+      "price": "976",
+      "id": 6
+    }
+  ]
+}
